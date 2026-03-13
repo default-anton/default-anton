@@ -7,5 +7,6 @@
 - 📁 **[pi-subdir-context](https://github.com/default-anton/pi-subdir-context)** — Automatically load `AGENTS.md` context from subdirectories in pi.
 - 🪟 **[pi-tmux-window-name](https://github.com/default-anton/pi-tmux-window-name)** — Auto-name tmux windows for pi coding sessions.
 - 🧵 **[pi-handoff](https://github.com/default-anton/pi-handoff)** — `/handoff` command to spawn a new linked session with context.
-- 🧩 **[json_completer](https://github.com/aha-app/json_completer)** — Ruby gem for completing partial JSON strings with stateful incremental parsing.
+- 🧠 **[very-good-agent-skills](https://github.com/default-anton/very-good-agent-skills)** — Small pile of reusable agent skills that make the work better.
+- 🧩 **[json_completer](https://github.com/aha-app/json_completer)** — Ruby gem for fast incremental parsing of partial and incomplete JSON streams.
 - 🌙 **[pi-moonshot](https://github.com/default-anton/pi-moonshot)** — Moonshot AI provider support (Kimi models) for pi.
