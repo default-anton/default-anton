@@ -1,6 +1,5 @@
 ## Current Projects
 
-- 🤖 **[jagc](https://github.com/default-anton/jagc)** — Telegram-first, self-hosted AI assistant with a CLI/API control plane.
 - 🧾 **[CashMop](https://github.com/default-anton/cashmop)** — Desktop-first cash flow tracking: import messy bank exports, categorize fast, export clean data.
 - 🔎 **[pi-finder](https://github.com/default-anton/pi-finder)** — Read-only local workspace scout subagent package for pi.
 - 📚 **[pi-librarian](https://github.com/default-anton/pi-librarian)** — GitHub research scout subagent package for the pi coding agent.
